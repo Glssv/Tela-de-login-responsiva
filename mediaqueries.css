@@ -1,0 +1,27 @@
+@media (max-width: 768px) {
+    body{
+        background-image: url(./img/Wallpaper-mobile.gif);
+    }
+    .container {
+        width: 70%;
+        padding: 20px 30px;
+    }
+
+    .container h1 {
+        font-size: 28px;
+    }
+
+    .input-box input {
+        font-size: 15px;
+        padding: 8px 4px;
+    }
+
+    .login {
+        font-size: 14px;
+        height: 45px;
+    }
+
+    .register-link {
+        font-size: 13px;
+    }
+}
